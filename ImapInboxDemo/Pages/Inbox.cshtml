@@ -1,0 +1,46 @@
+﻿@page
+@model ImapInboxDemo.Pages.InboxModel
+
+<div class="container-fluid">
+    <div class="row">
+
+        <!-- LEFT: Message List -->
+        <div class="col-4 border-end" style="height: 90vh; overflow-y: auto;">
+            <h4 class="mt-3">Inbox</h4>
+
+            @foreach (var msg in Model.Messages)
+            {
+                <div class="p-2 border-bottom inbox-item"
+                     style="cursor:pointer;"
+                     onclick="window.location='?id=@msg.Id'">
+                    <strong>@msg.From</strong><br />
+                    <span>@msg.Subject</span><br />
+                    <small class="text-muted">@msg.Date</small>
+                </div>
+            }
+        </div>
+
+        <!-- RIGHT: Preview Pane -->
+        <div class="col-8" style="height: 90vh; overflow-y: auto;">
+            @if (Model.SelectedMessage != null)
+            {
+                <h4 class="mt-3">@Model.SelectedMessage.Subject</h4>
+                <p><strong>From:</strong> @Model.SelectedMessage.From</p>
+                <p><strong>Date:</strong> @Model.SelectedMessage.Date</p>
+
+                <hr />
+
+                <div>
+                    @Html.Raw(Model.SelectedMessage.Body)
+                </div>
+            }
+            else
+            {
+                <div class="text-muted mt-5 text-center">
+                    <em>Select an email to preview</em>
+                </div>
+            }
+        </div>
+
+    </div>
+</div>

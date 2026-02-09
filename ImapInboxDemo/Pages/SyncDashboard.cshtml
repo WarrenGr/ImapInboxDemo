@@ -1,0 +1,68 @@
+﻿@page
+@model ImapInboxDemo.Pages.SyncDashboardModel
+@{
+    ViewData["Title"] = "IMAP Sync Dashboard";
+}
+<button id="darkToggle" class="btn btn-secondary mb-3">Toggle Dark Mode</button>
+<h2 class="mb-4">IMAP Sync Dashboard</h2>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+
+        <h5 class="card-title">Current Sync Status</h5>
+
+        <div class="mb-3">
+            <strong>Phase:</strong> <span id="phase">loading...</span>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col">
+                <strong>Processed:</strong> <span id="processed">0</span>
+            </div>
+            <div class="col">
+                <strong>Inserted:</strong> <span id="inserted">0</span>
+            </div>
+            <div class="col">
+                <strong>Total:</strong> <span id="total">0</span>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <strong>Current UID:</strong> <span id="currentUid">0</span>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col">
+                <strong>Messages/sec:</strong> <span id="mps">0</span>
+            </div>
+            <div class="col">
+                <strong>ETA:</strong> <span id="eta">0s</span>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <strong>Last Updated:</strong> <span id="lastUpdated">--</span>
+        </div>
+
+        <div class="progress" style="height: 25px;">
+            <div id="progressBar"
+                 class="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                 role="progressbar"
+                 style="width: 0%;">
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script src="/js/imapSync.js"></script>
+<script>
+    document.getElementById("darkToggle").addEventListener("click", () => {
+        document.body.classList.toggle("dark-mode");
+
+        document.querySelector(".card").classList.toggle("dark-mode");
+        document.querySelector(".progress").classList.toggle("dark-mode");
+        document.getElementById("progressBar").classList.toggle("dark-mode");
+    });
+</script>

@@ -1,0 +1,539 @@
+Folder PATH listing
+Volume serial number is 5051-E7AB
+C:.
+¦   appsettings.Development.json
+¦   appsettings.json
+¦   ImapInboxDemo.csproj
+¦   ImapInboxDemo.csproj.user
+¦   Program.cs
+¦   structure.txt
+¦   
++---bin
+¦   +---Debug
+¦       +---net10.0
+¦           ¦   appsettings.Development.json
+¦           ¦   appsettings.json
+¦           ¦   BouncyCastle.Cryptography.dll
+¦           ¦   Humanizer.dll
+¦           ¦   ImapInboxDemo.deps.json
+¦           ¦   ImapInboxDemo.dll
+¦           ¦   ImapInboxDemo.exe
+¦           ¦   ImapInboxDemo.pdb
+¦           ¦   ImapInboxDemo.runtimeconfig.json
+¦           ¦   ImapInboxDemo.staticwebassets.endpoints.json
+¦           ¦   ImapInboxDemo.staticwebassets.runtime.json
+¦           ¦   MailKit.dll
+¦           ¦   Microsoft.Build.Framework.dll
+¦           ¦   Microsoft.CodeAnalysis.CSharp.dll
+¦           ¦   Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+¦           ¦   Microsoft.CodeAnalysis.dll
+¦           ¦   Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+¦           ¦   Microsoft.CodeAnalysis.Workspaces.dll
+¦           ¦   Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+¦           ¦   Microsoft.EntityFrameworkCore.Abstractions.dll
+¦           ¦   Microsoft.EntityFrameworkCore.Design.dll
+¦           ¦   Microsoft.EntityFrameworkCore.dll
+¦           ¦   Microsoft.EntityFrameworkCore.Relational.dll
+¦           ¦   Microsoft.Extensions.DependencyModel.dll
+¦           ¦   Microsoft.VisualStudio.SolutionPersistence.dll
+¦           ¦   MimeKit.dll
+¦           ¦   Mono.TextTemplating.dll
+¦           ¦   Newtonsoft.Json.dll
+¦           ¦   Npgsql.dll
+¦           ¦   Npgsql.EntityFrameworkCore.PostgreSQL.dll
+¦           ¦   System.CodeDom.dll
+¦           ¦   System.Composition.AttributedModel.dll
+¦           ¦   System.Composition.Convention.dll
+¦           ¦   System.Composition.Hosting.dll
+¦           ¦   System.Composition.Runtime.dll
+¦           ¦   System.Composition.TypedParts.dll
+¦           ¦   
+¦           +---BuildHost-net472
+¦           ¦   ¦   Microsoft.Build.Locator.dll
+¦           ¦   ¦   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+¦           ¦   ¦   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+¦           ¦   ¦   Microsoft.IO.Redist.dll
+¦           ¦   ¦   Newtonsoft.Json.dll
+¦           ¦   ¦   System.Buffers.dll
+¦           ¦   ¦   System.Collections.Immutable.dll
+¦           ¦   ¦   System.CommandLine.dll
+¦           ¦   ¦   System.Memory.dll
+¦           ¦   ¦   System.Numerics.Vectors.dll
+¦           ¦   ¦   System.Runtime.CompilerServices.Unsafe.dll
+¦           ¦   ¦   System.Threading.Tasks.Extensions.dll
+¦           ¦   ¦   
+¦           ¦   +---cs
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---de
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---es
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---fr
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---it
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---ja
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---ko
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---pl
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---pt-BR
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---ru
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---tr
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---zh-Hans
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---zh-Hant
+¦           ¦           System.CommandLine.resources.dll
+¦           ¦           
+¦           +---BuildHost-netcore
+¦           ¦   ¦   Microsoft.Build.Locator.dll
+¦           ¦   ¦   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+¦           ¦   ¦   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+¦           ¦   ¦   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+¦           ¦   ¦   Newtonsoft.Json.dll
+¦           ¦   ¦   System.Collections.Immutable.dll
+¦           ¦   ¦   System.CommandLine.dll
+¦           ¦   ¦   
+¦           ¦   +---cs
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---de
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---es
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---fr
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---it
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---ja
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---ko
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---pl
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---pt-BR
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---ru
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---tr
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---zh-Hans
+¦           ¦   ¦       System.CommandLine.resources.dll
+¦           ¦   ¦       
+¦           ¦   +---zh-Hant
+¦           ¦           System.CommandLine.resources.dll
+¦           ¦           
+¦           +---cs
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---de
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---es
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---fr
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---it
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---ja
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---ko
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---pl
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---pt-BR
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---ru
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---tr
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---zh-Hans
+¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦           ¦       
+¦           +---zh-Hant
+¦                   Microsoft.CodeAnalysis.CSharp.resources.dll
+¦                   Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦                   Microsoft.CodeAnalysis.resources.dll
+¦                   Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+¦                   Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦                   
++---Controllers
+¦       AttachmentController.cs
+¦       SyncControlController.cs
+¦       SyncStatusController.cs
+¦       
++---Data
+¦       AppDbContext.cs
+¦       
++---Dtos
+¦       BackfillHealthDto.cs
+¦       SyncStatusDto.cs
+¦       
++---Hubs
+¦       ImapSyncHub.cs
+¦       
++---Migrations
+¦       20260201183053_InitialCreate.cs
+¦       20260201183053_InitialCreate.Designer.cs
+¦       20260201200429_AddSyncState.cs
+¦       20260201200429_AddSyncState.Designer.cs
+¦       20260201204329_AddSyncStateMetrics.cs
+¦       20260201204329_AddSyncStateMetrics.Designer.cs
+¦       20260203122042_AddEmailBody.cs
+¦       20260203122042_AddEmailBody.Designer.cs
+¦       20260203125254_AddUidToEmailMessage.cs
+¦       20260203125254_AddUidToEmailMessage.Designer.cs
+¦       20260204023033_UpdateSyncStateUidType.cs
+¦       20260204023033_UpdateSyncStateUidType.Designer.cs
+¦       20260204025221_AddFlagsAndSize.cs
+¦       20260204025221_AddFlagsAndSize.Designer.cs
+¦       20260207153808_SyncStateAligned.cs
+¦       20260207153808_SyncStateAligned.Designer.cs
+¦       20260208175203_SyncDashboard.cs
+¦       20260208175203_SyncDashboard.Designer.cs
+¦       AppDbContextModelSnapshot.cs
+¦       
++---Models
+¦       EmailAttachment.cs
+¦       EmailMessage.cs
+¦       SyncState.cs
+¦       
++---obj
+¦   ¦   ImapInboxDemo.csproj.nuget.dgspec.json
+¦   ¦   ImapInboxDemo.csproj.nuget.g.props
+¦   ¦   ImapInboxDemo.csproj.nuget.g.targets
+¦   ¦   project.assets.json
+¦   ¦   project.nuget.cache
+¦   ¦   
+¦   +---Debug
+¦       +---net10.0
+¦           ¦   .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+¦           ¦   ApiEndpoints.json
+¦           ¦   apphost.exe
+¦           ¦   ImapInbo.512A265D.Up2Date
+¦           ¦   ImapInboxDemo.AssemblyInfo.cs
+¦           ¦   ImapInboxDemo.AssemblyInfoInputs.cache
+¦           ¦   ImapInboxDemo.assets.cache
+¦           ¦   ImapInboxDemo.csproj.AssemblyReference.cache
+¦           ¦   ImapInboxDemo.csproj.BuildWithSkipAnalyzers
+¦           ¦   ImapInboxDemo.csproj.CoreCompileInputs.cache
+¦           ¦   ImapInboxDemo.csproj.FileListAbsolute.txt
+¦           ¦   ImapInboxDemo.dll
+¦           ¦   ImapInboxDemo.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   ImapInboxDemo.genruntimeconfig.cache
+¦           ¦   ImapInboxDemo.GlobalUsings.g.cs
+¦           ¦   ImapInboxDemo.MvcApplicationPartsAssemblyInfo.cache
+¦           ¦   ImapInboxDemo.pdb
+¦           ¦   ImapInboxDemo.RazorAssemblyInfo.cache
+¦           ¦   ImapInboxDemo.RazorAssemblyInfo.cs
+¦           ¦   ImapInboxDemo.sourcelink.json
+¦           ¦   rbcswa.dswa.cache.json
+¦           ¦   rjimswa.dswa.cache.json
+¦           ¦   rjsmcshtml.dswa.cache.json
+¦           ¦   rjsmrazor.dswa.cache.json
+¦           ¦   rpswa.dswa.cache.json
+¦           ¦   staticwebassets.build.endpoints.json
+¦           ¦   staticwebassets.build.json
+¦           ¦   staticwebassets.build.json.cache
+¦           ¦   staticwebassets.development.json
+¦           ¦   staticwebassets.references.upToDateCheck.txt
+¦           ¦   staticwebassets.removed.txt
+¦           ¦   staticwebassets.upToDateCheck.txt
+¦           ¦   swae.build.ex.cache
+¦           ¦   
+¦           +---compressed
+¦           ¦       03apu14wpc-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+¦           ¦       0rr9bveoxa-{0}-erw9l3u2r3-erw9l3u2r3.gz
+¦           ¦       27sb6k1dts-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+¦           ¦       3s7mzcx2g1-{0}-61n19gt1b8-61n19gt1b8.gz
+¦           ¦       457xwc2wyg-{0}-c2oey78nd0-c2oey78nd0.gz
+¦           ¦       5qnenue4ri-{0}-46ein0sx1k-46ein0sx1k.gz
+¦           ¦       5qpy3e42gm-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+¦           ¦       6kh4qqznfb-{0}-ub07r2b239-ub07r2b239.gz
+¦           ¦       86vzcz50ij-{0}-6cfz1n2cew-6cfz1n2cew.gz
+¦           ¦       8tc1t7zmh0-{0}-l2ij98cfsm-l2ij98cfsm.gz
+¦           ¦       8uojqk9489-{0}-tdbxkamptv-tdbxkamptv.gz
+¦           ¦       9jojiiwivr-{0}-v0zj4ognzu-v0zj4ognzu.gz
+¦           ¦       9kadv4ngj1-{0}-iovd86k7lj-iovd86k7lj.gz
+¦           ¦       9sinxezz4q-{0}-jm3hh6cyo7-jm3hh6cyo7.gz
+¦           ¦       a17qcilp5d-{0}-4v8eqarkd7-4v8eqarkd7.gz
+¦           ¦       b1sv8djkpq-{0}-dxx9fxp4il-dxx9fxp4il.gz
+¦           ¦       bgfbq07gxw-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+¦           ¦       btz8i00iib-{0}-b7pk76d08c-b7pk76d08c.gz
+¦           ¦       c6ljyhjfww-{0}-vr1egmr9el-vr1egmr9el.gz
+¦           ¦       cojerbsx14-{0}-jd9uben2k1-jd9uben2k1.gz
+¦           ¦       d91ynpmrwo-{0}-356vix0kms-356vix0kms.gz
+¦           ¦       ddobjgdbnf-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+¦           ¦       ddxfcny3pw-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+¦           ¦       e9xdhi124e-{0}-87fc7y1x7t-87fc7y1x7t.gz
+¦           ¦       ei7948ti16-{0}-ausgxo2sd3-ausgxo2sd3.gz
+¦           ¦       f6e2gmrvl8-{0}-d7shbmvgxk-d7shbmvgxk.gz
+¦           ¦       f8i97u3hv9-{0}-o1o13a6vjx-o1o13a6vjx.gz
+¦           ¦       fxnwh5hk27-{0}-h1s4sie4z3-h1s4sie4z3.gz
+¦           ¦       i1zciihdkr-{0}-37tfw0ft22-37tfw0ft22.gz
+¦           ¦       idutj41q77-{0}-83jwlth58m-83jwlth58m.gz
+¦           ¦       ilfj3szf4n-{0}-pj5nd1wqec-pj5nd1wqec.gz
+¦           ¦       iuoa2qd3s3-{0}-mrlpezrjn3-mrlpezrjn3.gz
+¦           ¦       iyocad54ot-{0}-0i3buxo5is-0i3buxo5is.gz
+¦           ¦       izyvkxw45a-{0}-ft3s53vfgj-ft3s53vfgj.gz
+¦           ¦       j1uc6gkyyg-{0}-c2jlpeoesf-c2jlpeoesf.gz
+¦           ¦       j610xk3p2q-{0}-khv3u5hwcm-khv3u5hwcm.gz
+¦           ¦       j74r08zon4-{0}-notf2xhcfb-notf2xhcfb.gz
+¦           ¦       jqlvtrr00i-{0}-fsbi9cje9m-fsbi9cje9m.gz
+¦           ¦       k9lsktnxav-{0}-47otxtyo56-47otxtyo56.gz
+¦           ¦       nn6ty906iy-{0}-y7v9cxd14o-y7v9cxd14o.gz
+¦           ¦       o6b9ryupdr-{0}-nvvlpmu67g-nvvlpmu67g.gz
+¦           ¦       opu2na72z1-{0}-rzd6atqjts-rzd6atqjts.gz
+¦           ¦       owxxkghxwc-{0}-cosvhxvwiu-cosvhxvwiu.gz
+¦           ¦       q8lfpxpe0n-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+¦           ¦       qss8icqcir-{0}-j5mq2jizvt-j5mq2jizvt.gz
+¦           ¦       r5eid3t3ub-{0}-hrwsygsryq-hrwsygsryq.gz
+¦           ¦       rfl76hhd5z-{0}-0j3bgjxly4-0j3bgjxly4.gz
+¦           ¦       rs9na0we3s-{0}-ttgo8qnofa-ttgo8qnofa.gz
+¦           ¦       snzf5f1bxz-{0}-493y06b0oq-493y06b0oq.gz
+¦           ¦       sos4kyu6q6-{0}-ag7o75518u-ag7o75518u.gz
+¦           ¦       tf5398cxsw-{0}-06098lyss8-06098lyss8.gz
+¦           ¦       tfpv5f6u4i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+¦           ¦       u8im4mvrp8-{0}-bqjiyaj88i-bqjiyaj88i.gz
+¦           ¦       vm9lw6nvx5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+¦           ¦       vvnvzmci1l-{0}-jm3hh6cyo7-jm3hh6cyo7.gz
+¦           ¦       vz0zwtz3wr-{0}-aexeepp0ev-aexeepp0ev.gz
+¦           ¦       wmxjyd6hd1-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+¦           ¦       wu4e3vz5v4-{0}-muycvpuwrr-muycvpuwrr.gz
+¦           ¦       ww1qhwi3r9-{0}-6pdc2jztkx-6pdc2jztkx.gz
+¦           ¦       wwcz8vwibf-{0}-nb4sizg3w3-nb4sizg3w3.gz
+¦           ¦       xswu6luwnm-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+¦           ¦       yoll3nfcmv-{0}-kbrnm935zg-kbrnm935zg.gz
+¦           ¦       ywo3gzbj17-{0}-mlv21k5csn-mlv21k5csn.gz
+¦           ¦       z4ewbt5e7f-{0}-s35ty4nyc5-s35ty4nyc5.gz
+¦           ¦       zauzr5ca7y-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+¦           ¦       
+¦           +---ref
+¦           ¦       ImapInboxDemo.dll
+¦           ¦       
+¦           +---refint
+¦           ¦       ImapInboxDemo.dll
+¦           ¦       
+¦           +---scopedcss
+¦           ¦   +---bundle
+¦           ¦   ¦       ImapInboxDemo.styles.css
+¦           ¦   ¦       
+¦           ¦   +---Pages
+¦           ¦   ¦   +---Shared
+¦           ¦   ¦           _Layout.cshtml.rz.scp.css
+¦           ¦   ¦           
+¦           ¦   +---projectbundle
+¦           ¦           ImapInboxDemo.bundle.scp.css
+¦           ¦           
+¦           +---staticwebassets
++---Pages
+¦   ¦   BackfillHealth.cshtml
+¦   ¦   BackfillHealth.cshtml.cs
+¦   ¦   Error.cshtml
+¦   ¦   Error.cshtml.cs
+¦   ¦   Inbox.cshtml
+¦   ¦   Inbox.cshtml.cs
+¦   ¦   Index.cshtml
+¦   ¦   Index.cshtml.cs
+¦   ¦   Privacy.cshtml
+¦   ¦   Privacy.cshtml.cs
+¦   ¦   SyncDashboard.cshtml
+¦   ¦   SyncDashboard.cshtml.cs
+¦   ¦   _ViewImports.cshtml
+¦   ¦   _ViewStart.cshtml
+¦   ¦   
+¦   +---Shared
+¦           _Layout.cshtml
+¦           _Layout.cshtml.css
+¦           _ValidationScriptsPartial.cshtml
+¦           
++---Properties
+¦       launchSettings.json
+¦       
++---Services
+¦       ImapSettings.cs
+¦       ImapSyncService.cs
+¦       SyncBatchProcessor.cs
+¦       
++---Telemetry
+¦       SyncDashboard.cs
+¦       SyncProgress.cs
+¦       SyncTelemetryService.cs
+¦       
++---Views
+¦   +---SyncStatus
+¦           SyncStatus.cshtml
+¦           
++---wwwroot
+    ¦   favicon.ico
+    ¦   
+    +---css
+    ¦       site.css
+    ¦       
+    +---js
+    ¦       imapSync.js
+    ¦       site.js
+    ¦       
+    +---lib
+        +---bootstrap
+        ¦   ¦   LICENSE
+        ¦   ¦   
+        ¦   +---dist
+        ¦       +---css
+        ¦       ¦       bootstrap-grid.css
+        ¦       ¦       bootstrap-grid.css.map
+        ¦       ¦       bootstrap-grid.min.css
+        ¦       ¦       bootstrap-grid.min.css.map
+        ¦       ¦       bootstrap-grid.rtl.css
+        ¦       ¦       bootstrap-grid.rtl.css.map
+        ¦       ¦       bootstrap-grid.rtl.min.css
+        ¦       ¦       bootstrap-grid.rtl.min.css.map
+        ¦       ¦       bootstrap-reboot.css
+        ¦       ¦       bootstrap-reboot.css.map
+        ¦       ¦       bootstrap-reboot.min.css
+        ¦       ¦       bootstrap-reboot.min.css.map
+        ¦       ¦       bootstrap-reboot.rtl.css
+        ¦       ¦       bootstrap-reboot.rtl.css.map
+        ¦       ¦       bootstrap-reboot.rtl.min.css
+        ¦       ¦       bootstrap-reboot.rtl.min.css.map
+        ¦       ¦       bootstrap-utilities.css
+        ¦       ¦       bootstrap-utilities.css.map
+        ¦       ¦       bootstrap-utilities.min.css
+        ¦       ¦       bootstrap-utilities.min.css.map
+        ¦       ¦       bootstrap-utilities.rtl.css
+        ¦       ¦       bootstrap-utilities.rtl.css.map
+        ¦       ¦       bootstrap-utilities.rtl.min.css
+        ¦       ¦       bootstrap-utilities.rtl.min.css.map
+        ¦       ¦       bootstrap.css
+        ¦       ¦       bootstrap.css.map
+        ¦       ¦       bootstrap.min.css
+        ¦       ¦       bootstrap.min.css.map
+        ¦       ¦       bootstrap.rtl.css
+        ¦       ¦       bootstrap.rtl.css.map
+        ¦       ¦       bootstrap.rtl.min.css
+        ¦       ¦       bootstrap.rtl.min.css.map
+        ¦       ¦       
+        ¦       +---js
+        ¦               bootstrap.bundle.js
+        ¦               bootstrap.bundle.js.map
+        ¦               bootstrap.bundle.min.js
+        ¦               bootstrap.bundle.min.js.map
+        ¦               bootstrap.esm.js
+        ¦               bootstrap.esm.js.map
+        ¦               bootstrap.esm.min.js
+        ¦               bootstrap.esm.min.js.map
+        ¦               bootstrap.js
+        ¦               bootstrap.js.map
+        ¦               bootstrap.min.js
+        ¦               bootstrap.min.js.map
+        ¦               
+        +---jquery
+        ¦   ¦   LICENSE.txt
+        ¦   ¦   
+        ¦   +---dist
+        ¦           jquery.js
+        ¦           jquery.min.js
+        ¦           jquery.min.map
+        ¦           jquery.slim.js
+        ¦           jquery.slim.min.js
+        ¦           jquery.slim.min.map
+        ¦           
+        +---jquery-validation
+        ¦   ¦   LICENSE.md
+        ¦   ¦   
+        ¦   +---dist
+        ¦           additional-methods.js
+        ¦           additional-methods.min.js
+        ¦           jquery.validate.js
+        ¦           jquery.validate.min.js
+        ¦           
+        +---jquery-validation-unobtrusive
+            ¦   LICENSE.txt
+            ¦   
+            +---dist
+                    jquery.validate.unobtrusive.js
+                    jquery.validate.unobtrusive.min.js
+                    

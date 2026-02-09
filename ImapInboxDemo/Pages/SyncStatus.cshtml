@@ -1,0 +1,11 @@
+﻿@page
+@model ImapInboxDemo.Pages.SyncStatusModel
+
+<h2>Sync Status</h2>
+
+<div class="card p-3 mt-3">
+    <p><strong>Lowest Synced UID:</strong> @Model.LowestSyncedUid</p>
+    <p><strong>New Messages Last Run:</strong> @Model.LastRunNewMessages</p>
+    <p><strong>Last Sync Time:</strong> @Model.LastRunTime</p>
+    <p><strong>Backfill Paused:</strong> @Model.PauseBackfill</p>
+</div>

@@ -1,0 +1,11 @@
+﻿@page
+@model ImapInboxDemo.Pages.BackfillHealthModel
+
+<h2>Backfill Health</h2>
+
+<div class="card p-3 mt-3">
+    <p><strong>Lowest Synced UID:</strong> @Model.LowestSyncedUid</p>
+    <p><strong>Total Messages in Database:</strong> @Model.TotalMessages</p>
+    <p><strong>Messages Synced (>= LowestSyncedUid):</strong> @Model.SyncedMessages</p>
+    <p><strong>Remaining Messages to Backfill:</strong> @Model.RemainingMessages</p>
+</div>
